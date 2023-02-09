@@ -1,0 +1,132 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 806784486, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: PackageManagerWindow
+  m_EditorClassIdentifier:
+  m_Usings: []
+  inlineSheet: {fileID: 11400000, guid: 27dde517b6e4660478fcc2a33fb33487, type: 2}
+  m_VisualElementAssets:
+  - m_Name:
+    m_Id: 1172277760
+    m_ParentId: 0
+    m_RuleIndex: -1
+    m_Text:
+    m_PickingMode: 0
+    m_FullTypeName: UnityEngine.Experimental.UIElements.VisualElement
+    m_Classes: []
+    m_Stylesheets: []
+    m_Properties:
+    - name
+    - container
+    - text
+    - 
+    - picking-mode
+    - Position
+  - m_Name:
+    m_Id: -651737856
+    m_ParentId: 1172277760
+    m_RuleIndex: -1
+    m_Text:
+    m_PickingMode: 0
+    m_FullTypeName: UnityEditor.PackageManager.UI.PackageManagerToolbar
+    m_Classes: []
+    m_Stylesheets: []
+    m_Properties:
+    - name
+    - toolbarContainer
+    - text
+    - 
+    - picking-mode
+    - Position
+  - m_Name:
+    m_Id: 861606144
+    m_ParentId: 1172277760
+    m_RuleIndex: -1
+    m_Text:
+    m_PickingMode: 0
+    m_FullTypeName: UnityEngine.Experimental.UIElements.VisualElement
+    m_Classes: []
+    m_Stylesheets: []
+    m_Properties:
+    - name
+    - detailListView
+    - text
+    - 
+    - picking-mode
+    - Position
+  - m_Name:
+    m_Id: 1958793216
+    m_ParentId: 861606144
+    m_RuleIndex: -1
+    m_Text:
+    m_PickingMode: 0
+    m_FullTypeName: UnityEngine.Experimental.UIElements.VisualElement
+    m_Classes: []
+    m_Stylesheets: []
+    m_Properties:
+    - name
+    - packageListGroup
+    - text
+    - 
+    - picking-mode
+    - Position
+  - m_Name:
+    m_Id: 740125696
+    m_ParentId: 1958793216
+    m_RuleIndex: -1
+    m_Text:
+    m_PickingMode: 0
+    m_FullTypeName: UnityEditor.PackageManager.UI.PackageList
+    m_Classes: []
+    m_Stylesheets: []
+    m_Properties:
+    - name
+    - packageList
+    - text
+    - 
+    - picking-mode
+    - Position
+  - m_Name:
+    m_Id: -156362496
+    m_ParentId: 1958793216
+    m_RuleIndex: -1
+    m_Text:
+    m_PickingMode: 0
+    m_FullTypeName: UnityEditor.PackageManager.UI.PackageStatusBar
+    m_Classes: []
+    m_Stylesheets: []
+    m_Properties:
+    - name
+    - packageStatusBar
+    - text
+    - 
+    - picking-mode
+    - Position
+  - m_Name:
+    m_Id: 510952448
+    m_ParentId: 861606144
+    m_RuleIndex: -1
+    m_Text:
+    m_PickingMode: 0
+    m_FullTypeName: UnityEditor.PackageManager.UI.PackageDetails
+    m_Classes: []
+    m_Stylesheets: []
+    m_Properties:
+    - name
+    - detailsGroup
+    - text
+    - 
+    - picking-mode
+    - Position
+  m_TemplateAssets: []
+  m_Slots: []
+  m_ContentContainerId: 0

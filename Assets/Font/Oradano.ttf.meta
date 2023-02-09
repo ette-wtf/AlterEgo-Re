@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 6233529fe663aa547995f783c2ba21c9
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Oradano-EGO
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 9012740b2140f484da92e54da64a02cb, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

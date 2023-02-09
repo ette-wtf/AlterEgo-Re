@@ -1,0 +1,174 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &687078895
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: 0_SpriteAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 2
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 21300000, guid: ab192fcf6d23e9d4fb20a1213a39adfb, type: 3}
+    - {fileID: 21300000, guid: 1f3ebe74594a6d54c9d2ab7598c586bf, type: 3}
+    - {fileID: 21300002, guid: ab192fcf6d23e9d4fb20a1213a39adfb, type: 3}
+    - {fileID: 21300002, guid: 1f3ebe74594a6d54c9d2ab7598c586bf, type: 3}
+    - {fileID: 21300004, guid: ab192fcf6d23e9d4fb20a1213a39adfb, type: 3}
+    - {fileID: 21300000, guid: 5ef2444aa29005f4a9dcfb723fe12de1, type: 3}
+    - {fileID: 21300006, guid: ab192fcf6d23e9d4fb20a1213a39adfb, type: 3}
+    - {fileID: 21300004, guid: 1f3ebe74594a6d54c9d2ab7598c586bf, type: 3}
+    - {fileID: 21300006, guid: 1f3ebe74594a6d54c9d2ab7598c586bf, type: 3}
+    - {fileID: 21300008, guid: ab192fcf6d23e9d4fb20a1213a39adfb, type: 3}
+    - {fileID: 21300010, guid: ab192fcf6d23e9d4fb20a1213a39adfb, type: 3}
+    - {fileID: 21300012, guid: ab192fcf6d23e9d4fb20a1213a39adfb, type: 3}
+    - {fileID: 21300014, guid: ab192fcf6d23e9d4fb20a1213a39adfb, type: 3}
+    - {fileID: 21300008, guid: 1f3ebe74594a6d54c9d2ab7598c586bf, type: 3}
+    - {fileID: 21300010, guid: 1f3ebe74594a6d54c9d2ab7598c586bf, type: 3}
+    - {fileID: 21300012, guid: 1f3ebe74594a6d54c9d2ab7598c586bf, type: 3}
+    - {fileID: 21300016, guid: ab192fcf6d23e9d4fb20a1213a39adfb, type: 3}
+    - {fileID: 21300018, guid: ab192fcf6d23e9d4fb20a1213a39adfb, type: 3}
+    - {fileID: 21300020, guid: ab192fcf6d23e9d4fb20a1213a39adfb, type: 3}
+    - {fileID: 21300022, guid: ab192fcf6d23e9d4fb20a1213a39adfb, type: 3}
+    - {fileID: 21300014, guid: 1f3ebe74594a6d54c9d2ab7598c586bf, type: 3}
+    - {fileID: 21300016, guid: 1f3ebe74594a6d54c9d2ab7598c586bf, type: 3}
+    - {fileID: 21300024, guid: ab192fcf6d23e9d4fb20a1213a39adfb, type: 3}
+    - {fileID: 21300018, guid: 1f3ebe74594a6d54c9d2ab7598c586bf, type: 3}
+    - {fileID: 21300020, guid: 1f3ebe74594a6d54c9d2ab7598c586bf, type: 3}
+    - {fileID: 21300002, guid: 5ef2444aa29005f4a9dcfb723fe12de1, type: 3}
+    - {fileID: 21300026, guid: ab192fcf6d23e9d4fb20a1213a39adfb, type: 3}
+    - {fileID: 21300028, guid: ab192fcf6d23e9d4fb20a1213a39adfb, type: 3}
+    - {fileID: 21300030, guid: ab192fcf6d23e9d4fb20a1213a39adfb, type: 3}
+    - {fileID: 21300022, guid: 1f3ebe74594a6d54c9d2ab7598c586bf, type: 3}
+    - {fileID: 21300024, guid: 1f3ebe74594a6d54c9d2ab7598c586bf, type: 3}
+    - {fileID: 21300026, guid: 1f3ebe74594a6d54c9d2ab7598c586bf, type: 3}
+    - {fileID: 21300028, guid: 1f3ebe74594a6d54c9d2ab7598c586bf, type: 3}
+    - {fileID: 21300032, guid: ab192fcf6d23e9d4fb20a1213a39adfb, type: 3}
+    - {fileID: 21300034, guid: ab192fcf6d23e9d4fb20a1213a39adfb, type: 3}
+    - {fileID: 21300036, guid: ab192fcf6d23e9d4fb20a1213a39adfb, type: 3}
+    - {fileID: 21300038, guid: ab192fcf6d23e9d4fb20a1213a39adfb, type: 3}
+    - {fileID: 21300004, guid: 5ef2444aa29005f4a9dcfb723fe12de1, type: 3}
+    - {fileID: 21300030, guid: 1f3ebe74594a6d54c9d2ab7598c586bf, type: 3}
+    - {fileID: 21300032, guid: 1f3ebe74594a6d54c9d2ab7598c586bf, type: 3}
+    - {fileID: 21300034, guid: 1f3ebe74594a6d54c9d2ab7598c586bf, type: 3}
+    - {fileID: 21300040, guid: ab192fcf6d23e9d4fb20a1213a39adfb, type: 3}
+    - {fileID: 21300042, guid: ab192fcf6d23e9d4fb20a1213a39adfb, type: 3}
+    - {fileID: 21300036, guid: 1f3ebe74594a6d54c9d2ab7598c586bf, type: 3}
+    - {fileID: 21300044, guid: ab192fcf6d23e9d4fb20a1213a39adfb, type: 3}
+    totalSpriteSurfaceArea: 0
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: ab192fcf6d23e9d4fb20a1213a39adfb, type: 3}
+  - {fileID: 21300000, guid: 1f3ebe74594a6d54c9d2ab7598c586bf, type: 3}
+  - {fileID: 21300002, guid: ab192fcf6d23e9d4fb20a1213a39adfb, type: 3}
+  - {fileID: 21300002, guid: 1f3ebe74594a6d54c9d2ab7598c586bf, type: 3}
+  - {fileID: 21300004, guid: ab192fcf6d23e9d4fb20a1213a39adfb, type: 3}
+  - {fileID: 21300000, guid: 5ef2444aa29005f4a9dcfb723fe12de1, type: 3}
+  - {fileID: 21300006, guid: ab192fcf6d23e9d4fb20a1213a39adfb, type: 3}
+  - {fileID: 21300004, guid: 1f3ebe74594a6d54c9d2ab7598c586bf, type: 3}
+  - {fileID: 21300006, guid: 1f3ebe74594a6d54c9d2ab7598c586bf, type: 3}
+  - {fileID: 21300008, guid: ab192fcf6d23e9d4fb20a1213a39adfb, type: 3}
+  - {fileID: 21300010, guid: ab192fcf6d23e9d4fb20a1213a39adfb, type: 3}
+  - {fileID: 21300012, guid: ab192fcf6d23e9d4fb20a1213a39adfb, type: 3}
+  - {fileID: 21300014, guid: ab192fcf6d23e9d4fb20a1213a39adfb, type: 3}
+  - {fileID: 21300008, guid: 1f3ebe74594a6d54c9d2ab7598c586bf, type: 3}
+  - {fileID: 21300010, guid: 1f3ebe74594a6d54c9d2ab7598c586bf, type: 3}
+  - {fileID: 21300012, guid: 1f3ebe74594a6d54c9d2ab7598c586bf, type: 3}
+  - {fileID: 21300016, guid: ab192fcf6d23e9d4fb20a1213a39adfb, type: 3}
+  - {fileID: 21300018, guid: ab192fcf6d23e9d4fb20a1213a39adfb, type: 3}
+  - {fileID: 21300020, guid: ab192fcf6d23e9d4fb20a1213a39adfb, type: 3}
+  - {fileID: 21300022, guid: ab192fcf6d23e9d4fb20a1213a39adfb, type: 3}
+  - {fileID: 21300014, guid: 1f3ebe74594a6d54c9d2ab7598c586bf, type: 3}
+  - {fileID: 21300016, guid: 1f3ebe74594a6d54c9d2ab7598c586bf, type: 3}
+  - {fileID: 21300024, guid: ab192fcf6d23e9d4fb20a1213a39adfb, type: 3}
+  - {fileID: 21300018, guid: 1f3ebe74594a6d54c9d2ab7598c586bf, type: 3}
+  - {fileID: 21300020, guid: 1f3ebe74594a6d54c9d2ab7598c586bf, type: 3}
+  - {fileID: 21300002, guid: 5ef2444aa29005f4a9dcfb723fe12de1, type: 3}
+  - {fileID: 21300026, guid: ab192fcf6d23e9d4fb20a1213a39adfb, type: 3}
+  - {fileID: 21300028, guid: ab192fcf6d23e9d4fb20a1213a39adfb, type: 3}
+  - {fileID: 21300030, guid: ab192fcf6d23e9d4fb20a1213a39adfb, type: 3}
+  - {fileID: 21300022, guid: 1f3ebe74594a6d54c9d2ab7598c586bf, type: 3}
+  - {fileID: 21300024, guid: 1f3ebe74594a6d54c9d2ab7598c586bf, type: 3}
+  - {fileID: 21300026, guid: 1f3ebe74594a6d54c9d2ab7598c586bf, type: 3}
+  - {fileID: 21300028, guid: 1f3ebe74594a6d54c9d2ab7598c586bf, type: 3}
+  - {fileID: 21300032, guid: ab192fcf6d23e9d4fb20a1213a39adfb, type: 3}
+  - {fileID: 21300034, guid: ab192fcf6d23e9d4fb20a1213a39adfb, type: 3}
+  - {fileID: 21300036, guid: ab192fcf6d23e9d4fb20a1213a39adfb, type: 3}
+  - {fileID: 21300038, guid: ab192fcf6d23e9d4fb20a1213a39adfb, type: 3}
+  - {fileID: 21300004, guid: 5ef2444aa29005f4a9dcfb723fe12de1, type: 3}
+  - {fileID: 21300030, guid: 1f3ebe74594a6d54c9d2ab7598c586bf, type: 3}
+  - {fileID: 21300032, guid: 1f3ebe74594a6d54c9d2ab7598c586bf, type: 3}
+  - {fileID: 21300034, guid: 1f3ebe74594a6d54c9d2ab7598c586bf, type: 3}
+  - {fileID: 21300040, guid: ab192fcf6d23e9d4fb20a1213a39adfb, type: 3}
+  - {fileID: 21300042, guid: ab192fcf6d23e9d4fb20a1213a39adfb, type: 3}
+  - {fileID: 21300036, guid: 1f3ebe74594a6d54c9d2ab7598c586bf, type: 3}
+  - {fileID: 21300044, guid: ab192fcf6d23e9d4fb20a1213a39adfb, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - エゴ数宇土台
+  - ボタン_クレジット
+  - アイテム_AE
+  - アイコン_鏡１
+  - ボタン_参考文献
+  - 操作説明
+  - メニューダイアログ_めくり演出反転
+  - メニューダイアログ_めくり演出
+  - 台紙
+  - しおり1
+  - しおり用の本の影
+  - アイコン_鏡２
+  - アイコン_章END
+  - ボタン_アイテム購入
+  - アイコン_砂時計
+  - アイコン_章END閉じ
+  - 受け取り後ダイアログ_本
+  - 蝶
+  - 受け取り後ダイアログ_目標達成
+  - OFF
+  - 購入の復元
+  - アイコン_門１
+  - アイテム_精神分析入門
+  - 商品ボタン
+  - 題字
+  - ダイアログ土台_ID
+  - SEフレーバー部分
+  - しおり2_後ろ
+  - 受け取り後ダイアログ_ライン
+  - 動画蝶ダイアログあしらい
+  - アイテム_快感原則の彼岸
+  - アイテム_SE
+  - ボタン_操作方法
+  - SNSシェアダイアログ_エス
+  - ON
+  - ボタン_レビュー
+  - しおり1_後ろ
+  - ベース本
+  - アイテム_夢判断
+  - アイコン_門２
+  - アイテム_ID
+  - しおり2
+  - とじる
+  - SNSシェアダイアログ_台紙
+  - とじる上
+  m_Tag: 0_SpriteAtlas
+  m_IsVariant: 0

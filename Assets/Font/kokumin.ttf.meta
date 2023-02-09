@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: cd8af224c5a12964a915a87e94028fa0
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Koku Mincho Regular
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 1146f7d921efa5e4396db4d06e064f44, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1544527758, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 11.Character Design
+  m_EditorClassIdentifier:
+  m_Locked: 0
+  m_Muted: 0
+  m_CustomPlayableFullTypename:
+  m_AnimClip: {fileID: 0}
+  m_Parent: {fileID: 11400000, guid: d488e6bab5cebe64d829f5e8dbd01fe4, type: 2}
+  m_Children:
+  - {fileID: 11400000, guid: 9abe9bd96244d4c4994cee9d5422f46d, type: 2}
+  - {fileID: 11400000, guid: a4368127fb45920499d4fdeb825d9b85, type: 2}
+  - {fileID: 11400000, guid: cfb0d7e30101d9948a2f0f620fa17a10, type: 2}
+  m_Clips: []
+  m_Version: 2

@@ -1,0 +1,28 @@
+fileFormatVersion: 2
+guid: 4a58dc7cb2a25ea45bfef0ba1e9b10f9
+timeCreated: 1675936870
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  externalObjects: {}
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: GenEiAntique
+  fontNames:
+  - GenEiAntique
+  - GenEi Antique v5
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: abae1adccf48bac44b49d8fdbd98ebf0, type: 3}
+  customCharacters:
+  fontRenderingMode: 0
+  output:
+    hasEmptyFontData: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData:
+  assetBundleName:
+  assetBundleVariant:

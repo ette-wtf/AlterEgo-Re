@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 832168659, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: UnityCloudBuildManifest.scriptable
+  m_EditorClassIdentifier:
+  m_manifestJson: '{"cloudBuildTargetName":"ego-android-release","buildNumber":"44","scmCommitId":"3486be1ffe21e73dd39a04f2808680b55cb22e52","buildStartTime":"5/21/2019 5:24:31 AM","projectId":"caramelcolumndeveloper/ios-6f4c96af-4c2f-4050-8c2d-196b5ae46217","bundleId":"com.caracolu.alterego","scmBranch":"master","unityVersion":"2018.3.14f1"}'

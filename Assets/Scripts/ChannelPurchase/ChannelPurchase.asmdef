@@ -1,0 +1,7 @@
+{
+  "name": "ChannelPurchase",
+  "references": [
+    "UnityStore"
+  ],
+  "allowUnsafeCode": true
+}

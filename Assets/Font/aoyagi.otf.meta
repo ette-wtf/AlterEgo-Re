@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 29e5fc4e12ae044498049a540209746e
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - aoyagi
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 2e47292fe0eb9b04bb237a6b3f15a472, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

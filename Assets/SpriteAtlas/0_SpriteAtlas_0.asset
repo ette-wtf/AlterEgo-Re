@@ -1,0 +1,153 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &687078895
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: 0_SpriteAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 2
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 21300000, guid: a8bf34174e1e86648a0e3b6b6d6263f4, type: 3}
+    - {fileID: 21300002, guid: a8bf34174e1e86648a0e3b6b6d6263f4, type: 3}
+    - {fileID: 21300004, guid: a8bf34174e1e86648a0e3b6b6d6263f4, type: 3}
+    - {fileID: 21300006, guid: a8bf34174e1e86648a0e3b6b6d6263f4, type: 3}
+    - {fileID: 21300008, guid: a8bf34174e1e86648a0e3b6b6d6263f4, type: 3}
+    - {fileID: 21300010, guid: a8bf34174e1e86648a0e3b6b6d6263f4, type: 3}
+    - {fileID: 21300012, guid: a8bf34174e1e86648a0e3b6b6d6263f4, type: 3}
+    - {fileID: 21300014, guid: a8bf34174e1e86648a0e3b6b6d6263f4, type: 3}
+    - {fileID: 21300016, guid: a8bf34174e1e86648a0e3b6b6d6263f4, type: 3}
+    - {fileID: 21300018, guid: a8bf34174e1e86648a0e3b6b6d6263f4, type: 3}
+    - {fileID: 21300020, guid: a8bf34174e1e86648a0e3b6b6d6263f4, type: 3}
+    - {fileID: 21300022, guid: a8bf34174e1e86648a0e3b6b6d6263f4, type: 3}
+    - {fileID: 21300024, guid: a8bf34174e1e86648a0e3b6b6d6263f4, type: 3}
+    - {fileID: 21300000, guid: 49d0bd016255c9341816331521780c37, type: 3}
+    - {fileID: 21300026, guid: a8bf34174e1e86648a0e3b6b6d6263f4, type: 3}
+    - {fileID: 21300028, guid: a8bf34174e1e86648a0e3b6b6d6263f4, type: 3}
+    - {fileID: 21300030, guid: a8bf34174e1e86648a0e3b6b6d6263f4, type: 3}
+    - {fileID: 21300032, guid: a8bf34174e1e86648a0e3b6b6d6263f4, type: 3}
+    - {fileID: 21300034, guid: a8bf34174e1e86648a0e3b6b6d6263f4, type: 3}
+    - {fileID: 21300036, guid: a8bf34174e1e86648a0e3b6b6d6263f4, type: 3}
+    - {fileID: 21300038, guid: a8bf34174e1e86648a0e3b6b6d6263f4, type: 3}
+    - {fileID: 21300040, guid: a8bf34174e1e86648a0e3b6b6d6263f4, type: 3}
+    - {fileID: 21300042, guid: a8bf34174e1e86648a0e3b6b6d6263f4, type: 3}
+    - {fileID: 21300044, guid: a8bf34174e1e86648a0e3b6b6d6263f4, type: 3}
+    - {fileID: 21300046, guid: a8bf34174e1e86648a0e3b6b6d6263f4, type: 3}
+    - {fileID: 21300048, guid: a8bf34174e1e86648a0e3b6b6d6263f4, type: 3}
+    - {fileID: 21300050, guid: a8bf34174e1e86648a0e3b6b6d6263f4, type: 3}
+    - {fileID: 21300052, guid: a8bf34174e1e86648a0e3b6b6d6263f4, type: 3}
+    - {fileID: 21300054, guid: a8bf34174e1e86648a0e3b6b6d6263f4, type: 3}
+    - {fileID: 21300056, guid: a8bf34174e1e86648a0e3b6b6d6263f4, type: 3}
+    - {fileID: 21300058, guid: a8bf34174e1e86648a0e3b6b6d6263f4, type: 3}
+    - {fileID: 21300060, guid: a8bf34174e1e86648a0e3b6b6d6263f4, type: 3}
+    - {fileID: 21300062, guid: a8bf34174e1e86648a0e3b6b6d6263f4, type: 3}
+    - {fileID: 21300064, guid: a8bf34174e1e86648a0e3b6b6d6263f4, type: 3}
+    - {fileID: 21300066, guid: a8bf34174e1e86648a0e3b6b6d6263f4, type: 3}
+    - {fileID: 21300068, guid: a8bf34174e1e86648a0e3b6b6d6263f4, type: 3}
+    - {fileID: 21300070, guid: a8bf34174e1e86648a0e3b6b6d6263f4, type: 3}
+    - {fileID: 21300072, guid: a8bf34174e1e86648a0e3b6b6d6263f4, type: 3}
+    totalSpriteSurfaceArea: 0
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: a8bf34174e1e86648a0e3b6b6d6263f4, type: 3}
+  - {fileID: 21300002, guid: a8bf34174e1e86648a0e3b6b6d6263f4, type: 3}
+  - {fileID: 21300004, guid: a8bf34174e1e86648a0e3b6b6d6263f4, type: 3}
+  - {fileID: 21300006, guid: a8bf34174e1e86648a0e3b6b6d6263f4, type: 3}
+  - {fileID: 21300008, guid: a8bf34174e1e86648a0e3b6b6d6263f4, type: 3}
+  - {fileID: 21300010, guid: a8bf34174e1e86648a0e3b6b6d6263f4, type: 3}
+  - {fileID: 21300012, guid: a8bf34174e1e86648a0e3b6b6d6263f4, type: 3}
+  - {fileID: 21300014, guid: a8bf34174e1e86648a0e3b6b6d6263f4, type: 3}
+  - {fileID: 21300016, guid: a8bf34174e1e86648a0e3b6b6d6263f4, type: 3}
+  - {fileID: 21300018, guid: a8bf34174e1e86648a0e3b6b6d6263f4, type: 3}
+  - {fileID: 21300020, guid: a8bf34174e1e86648a0e3b6b6d6263f4, type: 3}
+  - {fileID: 21300022, guid: a8bf34174e1e86648a0e3b6b6d6263f4, type: 3}
+  - {fileID: 21300024, guid: a8bf34174e1e86648a0e3b6b6d6263f4, type: 3}
+  - {fileID: 21300000, guid: 49d0bd016255c9341816331521780c37, type: 3}
+  - {fileID: 21300026, guid: a8bf34174e1e86648a0e3b6b6d6263f4, type: 3}
+  - {fileID: 21300028, guid: a8bf34174e1e86648a0e3b6b6d6263f4, type: 3}
+  - {fileID: 21300030, guid: a8bf34174e1e86648a0e3b6b6d6263f4, type: 3}
+  - {fileID: 21300032, guid: a8bf34174e1e86648a0e3b6b6d6263f4, type: 3}
+  - {fileID: 21300034, guid: a8bf34174e1e86648a0e3b6b6d6263f4, type: 3}
+  - {fileID: 21300036, guid: a8bf34174e1e86648a0e3b6b6d6263f4, type: 3}
+  - {fileID: 21300038, guid: a8bf34174e1e86648a0e3b6b6d6263f4, type: 3}
+  - {fileID: 21300040, guid: a8bf34174e1e86648a0e3b6b6d6263f4, type: 3}
+  - {fileID: 21300042, guid: a8bf34174e1e86648a0e3b6b6d6263f4, type: 3}
+  - {fileID: 21300044, guid: a8bf34174e1e86648a0e3b6b6d6263f4, type: 3}
+  - {fileID: 21300046, guid: a8bf34174e1e86648a0e3b6b6d6263f4, type: 3}
+  - {fileID: 21300048, guid: a8bf34174e1e86648a0e3b6b6d6263f4, type: 3}
+  - {fileID: 21300050, guid: a8bf34174e1e86648a0e3b6b6d6263f4, type: 3}
+  - {fileID: 21300052, guid: a8bf34174e1e86648a0e3b6b6d6263f4, type: 3}
+  - {fileID: 21300054, guid: a8bf34174e1e86648a0e3b6b6d6263f4, type: 3}
+  - {fileID: 21300056, guid: a8bf34174e1e86648a0e3b6b6d6263f4, type: 3}
+  - {fileID: 21300058, guid: a8bf34174e1e86648a0e3b6b6d6263f4, type: 3}
+  - {fileID: 21300060, guid: a8bf34174e1e86648a0e3b6b6d6263f4, type: 3}
+  - {fileID: 21300062, guid: a8bf34174e1e86648a0e3b6b6d6263f4, type: 3}
+  - {fileID: 21300064, guid: a8bf34174e1e86648a0e3b6b6d6263f4, type: 3}
+  - {fileID: 21300066, guid: a8bf34174e1e86648a0e3b6b6d6263f4, type: 3}
+  - {fileID: 21300068, guid: a8bf34174e1e86648a0e3b6b6d6263f4, type: 3}
+  - {fileID: 21300070, guid: a8bf34174e1e86648a0e3b6b6d6263f4, type: 3}
+  - {fileID: 21300072, guid: a8bf34174e1e86648a0e3b6b6d6263f4, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - アイコン_エンディング
+  - ボタンB
+  - 共有バナー
+  - 蝶_オーラ
+  - ロゴ_EGO
+  - 大きめヘッダー下
+  - ロゴ_CC
+  - メニュー_目標達成
+  - アイコン_本による獲得EGO
+  - 蝶_通知2
+  - メニュー_記録室
+  - 大きめヘッダー上
+  - メニュー_エス
+  - Appアイコン背景
+  - ヘッダー_ボーナス効果中
+  - アイコン_動画広告
+  - 蝶_通知1
+  - アイコン_エンディング_大
+  - アイコン_ログイン
+  - ヘッダー_メニュー
+  - アイコン_ふきだしタップ
+  - 額
+  - 蝶_共通
+  - 額のひかり
+  - アイコン_動画広告_大
+  - アイコン_本のレベルの合計
+  - Appアイコン前景
+  - 蝶_通知3
+  - 広告バナーのロゴ
+  - Appアイコン統合
+  - 蝶_通知_光
+  - アイコン_達成目標
+  - ヘッダー_カメラ
+  - ボタンA
+  - フッターグラデーション
+  - ヘッダー_ボーナス効果_光
+  - アイコン_１タップあたりの獲得EGO
+  - 蝶_進捗率
+  m_Tag: 0_SpriteAtlas
+  m_IsVariant: 0

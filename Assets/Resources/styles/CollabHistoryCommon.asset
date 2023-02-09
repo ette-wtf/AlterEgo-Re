@@ -1,0 +1,1203 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 616380264, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: CollabHistoryCommon
+  m_EditorClassIdentifier:
+  m_Rules:
+  - m_Properties:
+    - m_Name: min-height
+      m_Values:
+      - m_ValueType: 0
+        valueIndex: 2
+    - m_Name: -unity-text-align
+      m_Values:
+      - m_ValueType: 5
+        valueIndex: 0
+    - m_Name: margin-left
+      m_Values:
+      - m_ValueType: 1
+        valueIndex: 0
+    - m_Name: margin-top
+      m_Values:
+      - m_ValueType: 1
+        valueIndex: 1
+    - m_Name: margin-right
+      m_Values:
+      - m_ValueType: 1
+        valueIndex: 2
+    - m_Name: margin-bottom
+      m_Values:
+      - m_ValueType: 1
+        valueIndex: 3
+    - m_Name: border-left-width
+      m_Values:
+      - m_ValueType: 1
+        valueIndex: 4
+    - m_Name: border-top-width
+      m_Values:
+      - m_ValueType: 1
+        valueIndex: 5
+    - m_Name: border-right-width
+      m_Values:
+      - m_ValueType: 1
+        valueIndex: 6
+    - m_Name: border-bottom-width
+      m_Values:
+      - m_ValueType: 1
+        valueIndex: 7
+    - m_Name: padding-left
+      m_Values:
+      - m_ValueType: 1
+        valueIndex: 8
+      - m_ValueType: 5
+        valueIndex: 1
+    - m_Name: padding-top
+      m_Values:
+      - m_ValueType: 1
+        valueIndex: 9
+      - m_ValueType: 5
+        valueIndex: 2
+    - m_Name: padding-right
+      m_Values:
+      - m_ValueType: 1
+        valueIndex: 10
+      - m_ValueType: 5
+        valueIndex: 3
+    - m_Name: padding-bottom
+      m_Values:
+      - m_ValueType: 1
+        valueIndex: 11
+      - m_ValueType: 5
+        valueIndex: 4
+    line: 1
+  - m_Properties:
+    - m_Name: overflow
+      m_Values:
+      - m_ValueType: 5
+        valueIndex: 5
+    - m_Name: margin-left
+      m_Values:
+      - m_ValueType: 1
+        valueIndex: 12
+    - m_Name: margin-top
+      m_Values:
+      - m_ValueType: 1
+        valueIndex: 13
+    - m_Name: margin-right
+      m_Values:
+      - m_ValueType: 1
+        valueIndex: 14
+    - m_Name: margin-bottom
+      m_Values:
+      - m_ValueType: 1
+        valueIndex: 15
+    - m_Name: padding-left
+      m_Values:
+      - m_ValueType: 1
+        valueIndex: 16
+      - m_ValueType: 5
+        valueIndex: 6
+    - m_Name: padding-top
+      m_Values:
+      - m_ValueType: 1
+        valueIndex: 17
+      - m_ValueType: 5
+        valueIndex: 7
+    - m_Name: min-height
+      m_Values:
+      - m_ValueType: 0
+        valueIndex: 2
+    line: 18
+  - m_Properties:
+    - m_Name: flex
+      m_Values:
+      - m_ValueType: 1
+        valueIndex: 18
+      - m_ValueType: 1
+        valueIndex: 19
+      - m_ValueType: 1
+        valueIndex: 20
+    line: 29
+  - m_Properties:
+    - m_Name: flex
+      m_Values:
+      - m_ValueType: 1
+        valueIndex: 21
+      - m_ValueType: 1
+        valueIndex: 22
+      - m_ValueType: 1
+        valueIndex: 23
+    - m_Name: flex-direction
+      m_Values:
+      - m_ValueType: 5
+        valueIndex: 8
+    line: 33
+  - m_Properties:
+    - m_Name: margin-top
+      m_Values:
+      - m_ValueType: 1
+        valueIndex: 24
+    - m_Name: margin-left
+      m_Values:
+      - m_ValueType: 1
+        valueIndex: 25
+    - m_Name: margin-bottom
+      m_Values:
+      - m_ValueType: 1
+        valueIndex: 26
+    - m_Name: margin-right
+      m_Values:
+      - m_ValueType: 1
+        valueIndex: 27
+    - m_Name: padding-top
+      m_Values:
+      - m_ValueType: 1
+        valueIndex: 28
+    - m_Name: flex
+      m_Values:
+      - m_ValueType: 1
+        valueIndex: 29
+      - m_ValueType: 1
+        valueIndex: 30
+      - m_ValueType: 1
+        valueIndex: 31
+    line: 38
+  - m_Properties:
+    - m_Name: -unity-font-style
+      m_Values:
+      - m_ValueType: 5
+        valueIndex: 9
+    - m_Name: font-size
+      m_Values:
+      - m_ValueType: 1
+        valueIndex: 32
+    line: 47
+  - m_Properties:
+    - m_Name: align-self
+      m_Values:
+      - m_ValueType: 5
+        valueIndex: 10
+    line: 52
+  - m_Properties:
+    - m_Name: width
+      m_Values:
+      - m_ValueType: 1
+        valueIndex: 33
+    line: 56
+  - m_Properties:
+    - m_Name: flex
+      m_Values:
+      - m_ValueType: 1
+        valueIndex: 34
+      - m_ValueType: 1
+        valueIndex: 35
+      - m_ValueType: 1
+        valueIndex: 36
+    - m_Name: margin-left
+      m_Values:
+      - m_ValueType: 1
+        valueIndex: 37
+    - m_Name: width
+      m_Values:
+      - m_ValueType: 1
+        valueIndex: 38
+    line: 60
+  - m_Properties:
+    - m_Name: height
+      m_Values:
+      - m_ValueType: 1
+        valueIndex: 39
+    - m_Name: flex
+      m_Values:
+      - m_ValueType: 1
+        valueIndex: 40
+      - m_ValueType: 1
+        valueIndex: 41
+      - m_ValueType: 0
+        valueIndex: 1
+    line: 66
+  - m_Properties:
+    - m_Name: background-color
+      m_Values:
+      - m_ValueType: 2
+        valueIndex: 0
+    line: 71
+  - m_Properties:
+    - m_Name: background-color
+      m_Values:
+      - m_ValueType: 2
+        valueIndex: 1
+    line: 75
+  - m_Properties:
+    - m_Name: background-color
+      m_Values:
+      - m_ValueType: 2
+        valueIndex: 2
+    line: 79
+  - m_Properties:
+    - m_Name: position
+      m_Values:
+      - m_ValueType: 5
+        valueIndex: 11
+    - m_Name: min-width
+      m_Values:
+      - m_ValueType: 1
+        valueIndex: 42
+    - m_Name: -unity-text-align
+      m_Values:
+      - m_ValueType: 5
+        valueIndex: 12
+    - m_Name: top
+      m_Values:
+      - m_ValueType: 1
+        valueIndex: 43
+    - m_Name: font-size
+      m_Values:
+      - m_ValueType: 1
+        valueIndex: 44
+    line: 83
+  - m_Properties:
+    - m_Name: position
+      m_Values:
+      - m_ValueType: 5
+        valueIndex: 13
+    - m_Name: background-color
+      m_Values:
+      - m_ValueType: 2
+        valueIndex: 3
+    - m_Name: border-radius
+      m_Values:
+      - m_ValueType: 1
+        valueIndex: 45
+    - m_Name: width
+      m_Values:
+      - m_ValueType: 1
+        valueIndex: 46
+    - m_Name: height
+      m_Values:
+      - m_ValueType: 1
+        valueIndex: 47
+    - m_Name: border-bottom-width
+      m_Values:
+      - m_ValueType: 1
+        valueIndex: 48
+    - m_Name: border-left-width
+      m_Values:
+      - m_ValueType: 1
+        valueIndex: 49
+    - m_Name: border-right-width
+      m_Values:
+      - m_ValueType: 1
+        valueIndex: 50
+    - m_Name: border-top-width
+      m_Values:
+      - m_ValueType: 1
+        valueIndex: 51
+    - m_Name: top
+      m_Values:
+      - m_ValueType: 1
+        valueIndex: 52
+    - m_Name: left
+      m_Values:
+      - m_ValueType: 1
+        valueIndex: 53
+    line: 91
+  - m_Properties:
+    - m_Name: width
+      m_Values:
+      - m_ValueType: 1
+        valueIndex: 54
+    - m_Name: height
+      m_Values:
+      - m_ValueType: 1
+        valueIndex: 55
+    line: 105
+  - m_Properties:
+    - m_Name: position
+      m_Values:
+      - m_ValueType: 5
+        valueIndex: 14
+    - m_Name: margin-left
+      m_Values:
+      - m_ValueType: 1
+        valueIndex: 56
+    - m_Name: margin-top
+      m_Values:
+      - m_ValueType: 1
+        valueIndex: 57
+    line: 110
+  - m_Properties:
+    - m_Name: flex-direction
+      m_Values:
+      - m_ValueType: 5
+        valueIndex: 15
+    line: 116
+  - m_Properties:
+    - m_Name: margin-top
+      m_Values:
+      - m_ValueType: 1
+        valueIndex: 58
+    line: 120
+  - m_Properties:
+    - m_Name: border-color
+      m_Values:
+      - m_ValueType: 2
+        valueIndex: 4
+    line: 124
+  - m_Properties:
+    - m_Name: color
+      m_Values:
+      - m_ValueType: 2
+        valueIndex: 5
+    line: 128
+  - m_Properties:
+    - m_Name: border-top-width
+      m_Values:
+      - m_ValueType: 1
+        valueIndex: 59
+    line: 132
+  - m_Properties:
+    - m_Name: white-space
+      m_Values:
+      - m_ValueType: 5
+        valueIndex: 16
+    line: 136
+  - m_Properties:
+    - m_Name: align-self
+      m_Values:
+      - m_ValueType: 5
+        valueIndex: 17
+    - m_Name: padding-top
+      m_Values:
+      - m_ValueType: 1
+        valueIndex: 60
+    - m_Name: padding-left
+      m_Values:
+      - m_ValueType: 1
+        valueIndex: 61
+    - m_Name: padding-right
+      m_Values:
+      - m_ValueType: 1
+        valueIndex: 62
+    - m_Name: padding-bottom
+      m_Values:
+      - m_ValueType: 1
+        valueIndex: 63
+    line: 140
+  - m_Properties:
+    - m_Name: position
+      m_Values:
+      - m_ValueType: 5
+        valueIndex: 18
+    - m_Name: right
+      m_Values:
+      - m_ValueType: 1
+        valueIndex: 64
+    line: 148
+  - m_Properties:
+    - m_Name: width
+      m_Values:
+      - m_ValueType: 1
+        valueIndex: 65
+    - m_Name: height
+      m_Values:
+      - m_ValueType: 1
+        valueIndex: 66
+    line: 153
+  - m_Properties:
+    - m_Name: flex
+      m_Values:
+      - m_ValueType: 1
+        valueIndex: 67
+      - m_ValueType: 1
+        valueIndex: 68
+      - m_ValueType: 1
+        valueIndex: 69
+    - m_Name: flex-direction
+      m_Values:
+      - m_ValueType: 5
+        valueIndex: 19
+    - m_Name: align-items
+      m_Values:
+      - m_ValueType: 5
+        valueIndex: 20
+    - m_Name: height
+      m_Values:
+      - m_ValueType: 1
+        valueIndex: 70
+    - m_Name: margin-left
+      m_Values:
+      - m_ValueType: 1
+        valueIndex: 71
+    - m_Name: margin-right
+      m_Values:
+      - m_ValueType: 1
+        valueIndex: 72
+    line: 158
+  - m_Properties:
+    - m_Name: border-top-width
+      m_Values:
+      - m_ValueType: 1
+        valueIndex: 73
+    line: 167
+  - m_Properties:
+    - m_Name: padding-top
+      m_Values:
+      - m_ValueType: 1
+        valueIndex: 74
+    - m_Name: padding-bottom
+      m_Values:
+      - m_ValueType: 1
+        valueIndex: 75
+    line: 171
+  - m_Properties:
+    - m_Name: flex-direction
+      m_Values:
+      - m_ValueType: 5
+        valueIndex: 21
+    - m_Name: border-top-width
+      m_Values:
+      - m_ValueType: 1
+        valueIndex: 76
+    - m_Name: overflow
+      m_Values:
+      - m_ValueType: 5
+        valueIndex: 22
+    line: 176
+  - m_Properties:
+    - m_Name: align-self
+      m_Values:
+      - m_ValueType: 5
+        valueIndex: 23
+    - m_Name: width
+      m_Values:
+      - m_ValueType: 1
+        valueIndex: 77
+    - m_Name: height
+      m_Values:
+      - m_ValueType: 1
+        valueIndex: 78
+    line: 182
+  - m_Properties:
+    - m_Name: -unity-font-style
+      m_Values:
+      - m_ValueType: 5
+        valueIndex: 24
+    - m_Name: padding-bottom
+      m_Values:
+      - m_ValueType: 1
+        valueIndex: 79
+    - m_Name: margin-bottom
+      m_Values:
+      - m_ValueType: 1
+        valueIndex: 80
+    line: 188
+  - m_Properties:
+    - m_Name: padding-top
+      m_Values:
+      - m_ValueType: 1
+        valueIndex: 81
+    - m_Name: margin-top
+      m_Values:
+      - m_ValueType: 1
+        valueIndex: 82
+    line: 194
+  - m_Properties:
+    - m_Name: height
+      m_Values:
+      - m_ValueType: 1
+        valueIndex: 83
+    - m_Name: background-color
+      m_Values:
+      - m_ValueType: 2
+        valueIndex: 6
+    - m_Name: color
+      m_Values:
+      - m_ValueType: 2
+        valueIndex: 7
+    - m_Name: font-size
+      m_Values:
+      - m_ValueType: 1
+        valueIndex: 84
+    line: 199
+  - m_Properties:
+    - m_Name: position
+      m_Values:
+      - m_ValueType: 5
+        valueIndex: 25
+    - m_Name: right
+      m_Values:
+      - m_ValueType: 1
+        valueIndex: 85
+    - m_Name: top
+      m_Values:
+      - m_ValueType: 1
+        valueIndex: 86
+    - m_Name: width
+      m_Values:
+      - m_ValueType: 1
+        valueIndex: 87
+    - m_Name: height
+      m_Values:
+      - m_ValueType: 1
+        valueIndex: 88
+    - m_Name: color
+      m_Values:
+      - m_ValueType: 2
+        valueIndex: 8
+    - m_Name: font-size
+      m_Values:
+      - m_ValueType: 1
+        valueIndex: 89
+    - m_Name: -unity-font-style
+      m_Values:
+      - m_ValueType: 5
+        valueIndex: 26
+    line: 206
+  - m_Properties:
+    - m_Name: flex-direction
+      m_Values:
+      - m_ValueType: 5
+        valueIndex: 27
+    - m_Name: justify-content
+      m_Values:
+      - m_ValueType: 5
+        valueIndex: 28
+    - m_Name: align-self
+      m_Values:
+      - m_ValueType: 5
+        valueIndex: 29
+    - m_Name: align-items
+      m_Values:
+      - m_ValueType: 5
+        valueIndex: 30
+    - m_Name: flex
+      m_Values:
+      - m_ValueType: 1
+        valueIndex: 90
+      - m_ValueType: 1
+        valueIndex: 91
+      - m_ValueType: 1
+        valueIndex: 92
+    line: 217
+  - m_Properties:
+    - m_Name: width
+      m_Values:
+      - m_ValueType: 1
+        valueIndex: 93
+    - m_Name: height
+      m_Values:
+      - m_ValueType: 1
+        valueIndex: 94
+    line: 225
+  - m_Properties:
+    - m_Name: font-size
+      m_Values:
+      - m_ValueType: 1
+        valueIndex: 95
+    - m_Name: width
+      m_Values:
+      - m_ValueType: 1
+        valueIndex: 96
+    - m_Name: white-space
+      m_Values:
+      - m_ValueType: 5
+        valueIndex: 31
+    - m_Name: -unity-text-align
+      m_Values:
+      - m_ValueType: 5
+        valueIndex: 32
+    line: 230
+  - m_Properties:
+    - m_Name: font-size
+      m_Values:
+      - m_ValueType: 1
+        valueIndex: 97
+    - m_Name: margin-top
+      m_Values:
+      - m_ValueType: 1
+        valueIndex: 98
+    - m_Name: background-image
+      m_Values:
+      - m_ValueType: 0
+        valueIndex: 5
+    - m_Name: width
+      m_Values:
+      - m_ValueType: 1
+        valueIndex: 99
+    - m_Name: height
+      m_Values:
+      - m_ValueType: 1
+        valueIndex: 100
+    line: 237
+  - m_Properties:
+    - m_Name: flex-direction
+      m_Values:
+      - m_ValueType: 5
+        valueIndex: 33
+    - m_Name: align-self
+      m_Values:
+      - m_ValueType: 5
+        valueIndex: 34
+    - m_Name: align-items
+      m_Values:
+      - m_ValueType: 5
+        valueIndex: 35
+    - m_Name: margin-right
+      m_Values:
+      - m_ValueType: 1
+        valueIndex: 101
+    - m_Name: padding-left
+      m_Values:
+      - m_ValueType: 0
+        valueIndex: 2
+    - m_Name: padding-top
+      m_Values:
+      - m_ValueType: 0
+        valueIndex: 2
+    - m_Name: padding-right
+      m_Values:
+      - m_ValueType: 0
+        valueIndex: 2
+    - m_Name: padding-bottom
+      m_Values:
+      - m_ValueType: 0
+        valueIndex: 2
+    line: 245
+  - m_Properties:
+    - m_Name: padding-left
+      m_Values:
+      - m_ValueType: 1
+        valueIndex: 102
+    line: 256
+  m_ComplexSelectors:
+  - m_Specificity: 11
+    m_Selectors:
+    - m_Parts:
+      - m_Value: unity-button
+        m_Type: 3
+      m_PreviousRelationship: 0
+    ruleIndex: 0
+  - m_Specificity: 11
+    m_Selectors:
+    - m_Parts:
+      - m_Value: unity-label
+        m_Type: 3
+      m_PreviousRelationship: 0
+    ruleIndex: 1
+  - m_Specificity: 101
+    m_Selectors:
+    - m_Parts:
+      - m_Value: HistoryContainer
+        m_Type: 6
+      m_PreviousRelationship: 0
+    ruleIndex: 2
+  - m_Specificity: 101
+    m_Selectors:
+    - m_Parts:
+      - m_Value: HistoryItem
+        m_Type: 6
+      m_PreviousRelationship: 0
+    ruleIndex: 3
+  - m_Specificity: 101
+    m_Selectors:
+    - m_Parts:
+      - m_Value: HistoryDetail
+        m_Type: 6
+      m_PreviousRelationship: 0
+    ruleIndex: 4
+  - m_Specificity: 101
+    m_Selectors:
+    - m_Parts:
+      - m_Value: Author
+        m_Type: 6
+      m_PreviousRelationship: 0
+    ruleIndex: 5
+  - m_Specificity: 102
+    m_Selectors:
+    - m_Parts:
+      - m_Value: HistoryDetail
+        m_Type: 6
+      m_PreviousRelationship: 0
+    - m_Parts:
+      - m_Value: Button
+        m_Type: 2
+      m_PreviousRelationship: 1
+    ruleIndex: 6
+  - m_Specificity: 2
+    m_Selectors:
+    - m_Parts:
+      - m_Value: CollabHistoryRevisionLine
+        m_Type: 2
+      m_PreviousRelationship: 0
+    ruleIndex: 7
+  - m_Specificity: 101
+    m_Selectors:
+    - m_Parts:
+      - m_Value: RevisionLine
+        m_Type: 6
+      m_PreviousRelationship: 0
+    ruleIndex: 8
+  - m_Specificity: 111
+    m_Selectors:
+    - m_Parts:
+      - m_Value: RevisionLine
+        m_Type: 6
+      - m_Value: topLine
+        m_Type: 3
+      m_PreviousRelationship: 0
+    ruleIndex: 9
+  - m_Specificity: 111
+    m_Selectors:
+    - m_Parts:
+      - m_Value: RevisionLine
+        m_Type: 6
+      - m_Value: absentDateLine
+        m_Type: 3
+      m_PreviousRelationship: 0
+    ruleIndex: 10
+  - m_Specificity: 111
+    m_Selectors:
+    - m_Parts:
+      - m_Value: absentRevision
+        m_Type: 3
+      m_PreviousRelationship: 0
+    - m_Parts:
+      - m_Value: RevisionLine
+        m_Type: 6
+      m_PreviousRelationship: 2
+    ruleIndex: 11
+  - m_Specificity: 121
+    m_Selectors:
+    - m_Parts:
+      - m_Value: currentRevision
+        m_Type: 3
+      m_PreviousRelationship: 0
+    - m_Parts:
+      - m_Value: RevisionLine
+        m_Type: 6
+      - m_Value: topLine
+        m_Type: 3
+      m_PreviousRelationship: 2
+    ruleIndex: 12
+  - m_Specificity: 101
+    m_Selectors:
+    - m_Parts:
+      - m_Value: RevisionIndex
+        m_Type: 6
+      m_PreviousRelationship: 0
+    ruleIndex: 13
+  - m_Specificity: 101
+    m_Selectors:
+    - m_Parts:
+      - m_Value: RevisionIndicator
+        m_Type: 6
+      m_PreviousRelationship: 0
+    ruleIndex: 14
+  - m_Specificity: 11
+    m_Selectors:
+    - m_Parts:
+      - m_Value: revisionLineHeader
+        m_Type: 3
+      m_PreviousRelationship: 0
+    ruleIndex: 15
+  - m_Specificity: 21
+    m_Selectors:
+    - m_Parts:
+      - m_Value: revisionLineHeader
+        m_Type: 3
+      m_PreviousRelationship: 0
+    - m_Parts:
+      - m_Value: unity-label
+        m_Type: 3
+      m_PreviousRelationship: 1
+    ruleIndex: 16
+  - m_Specificity: 101
+    m_Selectors:
+    - m_Parts:
+      - m_Value: PagerItems
+        m_Type: 6
+      m_PreviousRelationship: 0
+    ruleIndex: 17
+  - m_Specificity: 12
+    m_Selectors:
+    - m_Parts:
+      - m_Value: PagerElement
+        m_Type: 2
+      m_PreviousRelationship: 0
+    - m_Parts:
+      - m_Value: unity-label
+        m_Type: 3
+      m_PreviousRelationship: 1
+    ruleIndex: 18
+  - m_Specificity: 111
+    m_Selectors:
+    - m_Parts:
+      - m_Value: absentRevision
+        m_Type: 3
+      m_PreviousRelationship: 0
+    - m_Parts:
+      - m_Value: RevisionIndicator
+        m_Type: 6
+      m_PreviousRelationship: 2
+    ruleIndex: 19
+  - m_Specificity: 111
+    m_Selectors:
+    - m_Parts:
+      - m_Value: absentRevision
+        m_Type: 3
+      m_PreviousRelationship: 0
+    - m_Parts:
+      - m_Value: RevisionIndex
+        m_Type: 6
+      m_PreviousRelationship: 2
+    ruleIndex: 20
+  - m_Specificity: 111
+    m_Selectors:
+    - m_Parts:
+      - m_Value: currentRevision
+        m_Type: 3
+      m_PreviousRelationship: 0
+    - m_Parts:
+      - m_Value: HistoryDetail
+        m_Type: 6
+      m_PreviousRelationship: 2
+    ruleIndex: 21
+  - m_Specificity: 201
+    m_Selectors:
+    - m_Parts:
+      - m_Value: HistoryItem
+        m_Type: 6
+      m_PreviousRelationship: 0
+    - m_Parts:
+      - m_Value: RevisionDescription
+        m_Type: 6
+      m_PreviousRelationship: 2
+    ruleIndex: 22
+  - m_Specificity: 201
+    m_Selectors:
+    - m_Parts:
+      - m_Value: HistoryItem
+        m_Type: 6
+      m_PreviousRelationship: 0
+    - m_Parts:
+      - m_Value: ToggleDescription
+        m_Type: 6
+      m_PreviousRelationship: 2
+    ruleIndex: 23
+  - m_Specificity: 201
+    m_Selectors:
+    - m_Parts:
+      - m_Value: HistoryItem
+        m_Type: 6
+      m_PreviousRelationship: 0
+    - m_Parts:
+      - m_Value: ActionButton
+        m_Type: 6
+      m_PreviousRelationship: 2
+    ruleIndex: 24
+  - m_Specificity: 201
+    m_Selectors:
+    - m_Parts:
+      - m_Value: HistoryItem
+        m_Type: 6
+      m_PreviousRelationship: 0
+    - m_Parts:
+      - m_Value: BuildIcon
+        m_Type: 6
+      m_PreviousRelationship: 2
+    ruleIndex: 25
+  - m_Specificity: 101
+    m_Selectors:
+    - m_Parts:
+      - m_Value: HistoryItemActionsTray
+        m_Type: 6
+      m_PreviousRelationship: 0
+    ruleIndex: 26
+  - m_Specificity: 2
+    m_Selectors:
+    - m_Parts:
+      - m_Value: CollabHistoryDropDown
+        m_Type: 2
+      m_PreviousRelationship: 0
+    ruleIndex: 27
+  - m_Specificity: 12
+    m_Selectors:
+    - m_Parts:
+      - m_Value: CollabHistoryDropDown
+        m_Type: 2
+      m_PreviousRelationship: 0
+    - m_Parts:
+      - m_Value: unity-label
+        m_Type: 3
+      m_PreviousRelationship: 1
+    ruleIndex: 28
+  - m_Specificity: 2
+    m_Selectors:
+    - m_Parts:
+      - m_Value: CollabHistoryDropDownItem
+        m_Type: 2
+      m_PreviousRelationship: 0
+    ruleIndex: 29
+  - m_Specificity: 101
+    m_Selectors:
+    - m_Parts:
+      - m_Value: FileIcon
+        m_Type: 6
+      m_PreviousRelationship: 0
+    ruleIndex: 30
+  - m_Specificity: 101
+    m_Selectors:
+    - m_Parts:
+      - m_Value: FileName
+        m_Type: 6
+      m_PreviousRelationship: 0
+    ruleIndex: 31
+  - m_Specificity: 101
+    m_Selectors:
+    - m_Parts:
+      - m_Value: FileIcon
+        m_Type: 6
+      m_PreviousRelationship: 0
+    ruleIndex: 32
+  - m_Specificity: 101
+    m_Selectors:
+    - m_Parts:
+      - m_Value: ErrorBar
+        m_Type: 6
+      m_PreviousRelationship: 0
+    ruleIndex: 33
+  - m_Specificity: 201
+    m_Selectors:
+    - m_Parts:
+      - m_Value: ErrorBar
+        m_Type: 6
+      m_PreviousRelationship: 0
+    - m_Parts:
+      - m_Value: CloseButton
+        m_Type: 6
+      m_PreviousRelationship: 1
+    ruleIndex: 34
+  - m_Specificity: 101
+    m_Selectors:
+    - m_Parts:
+      - m_Value: StatusView
+        m_Type: 6
+      m_PreviousRelationship: 0
+    ruleIndex: 35
+  - m_Specificity: 201
+    m_Selectors:
+    - m_Parts:
+      - m_Value: StatusView
+        m_Type: 6
+      m_PreviousRelationship: 0
+    - m_Parts:
+      - m_Value: StatusIcon
+        m_Type: 6
+      m_PreviousRelationship: 1
+    ruleIndex: 36
+  - m_Specificity: 201
+    m_Selectors:
+    - m_Parts:
+      - m_Value: StatusView
+        m_Type: 6
+      m_PreviousRelationship: 0
+    - m_Parts:
+      - m_Value: StatusMessage
+        m_Type: 6
+      m_PreviousRelationship: 1
+    ruleIndex: 37
+  - m_Specificity: 201
+    m_Selectors:
+    - m_Parts:
+      - m_Value: StatusView
+        m_Type: 6
+      m_PreviousRelationship: 0
+    - m_Parts:
+      - m_Value: StatusButton
+        m_Type: 6
+      m_PreviousRelationship: 1
+    ruleIndex: 38
+  - m_Specificity: 12
+    m_Selectors:
+    - m_Parts:
+      - m_Value: BuildStatusButton
+        m_Type: 2
+      - m_Value: unity-button
+        m_Type: 3
+      m_PreviousRelationship: 0
+    ruleIndex: 39
+  - m_Specificity: 22
+    m_Selectors:
+    - m_Parts:
+      - m_Value: BuildStatusButton
+        m_Type: 2
+      - m_Value: unity-button
+        m_Type: 3
+      m_PreviousRelationship: 0
+    - m_Parts:
+      - m_Value: unity-label
+        m_Type: 3
+      m_PreviousRelationship: 2
+    ruleIndex: 40
+  floats:
+  - 4
+  - 3
+  - 4
+  - 3
+  - 6
+  - 4
+  - 6
+  - 4
+  - 6
+  - 2
+  - 6
+  - 3
+  - 4
+  - 2
+  - 4
+  - 2
+  - 2
+  - 1
+  - 1
+  - 0
+  - 0
+  - 1
+  - 0
+  - 0
+  - 10
+  - 10
+  - 10
+  - 10
+  - 4
+  - 1
+  - 0
+  - 0
+  - 12
+  - 40
+  - 1
+  - 0
+  - 0
+  - 35
+  - 1.5
+  - 20
+  - 0
+  - 0
+  - 23
+  - 15.8
+  - 9
+  - 3
+  - 8
+  - 8
+  - 2
+  - 2
+  - 2
+  - 2
+  - 20
+  - 32
+  - 200
+  - 20
+  - 47
+  - 3
+  - 8
+  - 2
+  - 0
+  - 0
+  - 0
+  - 2
+  - 0
+  - 16
+  - 13
+  - 1
+  - 0
+  - 0
+  - 38
+  - 10
+  - 10
+  - 1
+  - 10
+  - 10
+  - 1
+  - 26
+  - 26
+  - 0
+  - 0
+  - 0
+  - 0
+  - 24
+  - 12
+  - 0
+  - 0
+  - 24
+  - 24
+  - 18
+  - 1
+  - 0
+  - 0
+  - 115
+  - 150
+  - 22
+  - 230
+  - 12
+  - 20
+  - 108
+  - 29
+  - 10
+  - 2
+  colors:
+  - {r: 0.4745098, g: 0.4627451, b: 0.4627451, a: 1}
+  - {r: 0.4745098, g: 0.4627451, b: 0.4627451, a: 1}
+  - {r: 0.4745098, g: 0.4627451, b: 0.4627451, a: 1}
+  - {r: 0, g: 0, b: 0, a: 1}
+  - {r: 0.4745098, g: 0.4627451, b: 0.4627451, a: 1}
+  - {r: 0.4745098, g: 0.4627451, b: 0.4627451, a: 1}
+  - {r: 1, g: 0, b: 0, a: 1}
+  - {r: 0, g: 0, b: 0, a: 1}
+  - {r: 0, g: 0, b: 0, a: 1}
+  strings:
+  - middle-center
+  - px
+  - px
+  - px
+  - px
+  - hidden
+  - px
+  - px
+  - row
+  - bold
+  - flex-end
+  - absolute
+  - middle-right
+  - absolute
+  - absolute
+  - column
+  - normal
+  - flex-start
+  - absolute
+  - row
+  - center
+  - row
+  - hidden
+  - center
+  - bold
+  - absolute
+  - bold
+  - column
+  - center
+  - center
+  - center
+  - normal
+  - middle-center
+  - row
+  - flex-end
+  - center
+  assets: []

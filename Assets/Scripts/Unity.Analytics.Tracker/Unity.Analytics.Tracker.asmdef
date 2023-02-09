@@ -1,0 +1,7 @@
+{
+  "name": "Unity.Analytics.Tracker",
+  "references": [
+    "Unity.Analytics.StandardEvents"
+  ],
+  "allowUnsafeCode": true
+}

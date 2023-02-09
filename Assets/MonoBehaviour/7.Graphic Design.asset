@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1544527758, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 7.Graphic Design
+  m_EditorClassIdentifier:
+  m_Locked: 0
+  m_Muted: 0
+  m_CustomPlayableFullTypename:
+  m_AnimClip: {fileID: 0}
+  m_Parent: {fileID: 11400000, guid: d488e6bab5cebe64d829f5e8dbd01fe4, type: 2}
+  m_Children:
+  - {fileID: 11400000, guid: 59bbea07b5d57774a8659dd8e4a43ab3, type: 2}
+  - {fileID: 11400000, guid: 79769d112863ce44da4c0bd44cf31fbc, type: 2}
+  - {fileID: 11400000, guid: dc0fa93fa9a0d2e4c8fa5c8e0e6e19b4, type: 2}
+  - {fileID: 11400000, guid: e3977bc0defcfc841b3b14cf34c729f1, type: 2}
+  - {fileID: 11400000, guid: a5d9eb42074779c4b9438730c4fd02f2, type: 2}
+  m_Clips: []
+  m_Version: 2

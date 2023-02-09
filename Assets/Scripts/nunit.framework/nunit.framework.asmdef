@@ -1,0 +1,5 @@
+{
+  "name": "nunit.framework",
+  "references": [],
+  "allowUnsafeCode": true
+}

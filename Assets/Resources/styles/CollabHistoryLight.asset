@@ -1,0 +1,395 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 616380264, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: CollabHistoryLight
+  m_EditorClassIdentifier:
+  m_Rules:
+  - m_Properties:
+    - m_Name: background-color
+      m_Values:
+      - m_ValueType: 2
+        valueIndex: 0
+    line: 1
+  - m_Properties:
+    - m_Name: background-color
+      m_Values:
+      - m_ValueType: 2
+        valueIndex: 1
+    line: 5
+  - m_Properties:
+    - m_Name: background-color
+      m_Values:
+      - m_ValueType: 2
+        valueIndex: 2
+    line: 9
+  - m_Properties:
+    - m_Name: background-color
+      m_Values:
+      - m_ValueType: 2
+        valueIndex: 3
+    line: 13
+  - m_Properties:
+    - m_Name: color
+      m_Values:
+      - m_ValueType: 2
+        valueIndex: 4
+    line: 17
+  - m_Properties:
+    - m_Name: color
+      m_Values:
+      - m_ValueType: 2
+        valueIndex: 5
+    - m_Name: background-image
+      m_Values:
+      - m_ValueType: 3
+        valueIndex: 0
+    line: 21
+  - m_Properties:
+    - m_Name: color
+      m_Values:
+      - m_ValueType: 2
+        valueIndex: 6
+    line: 26
+  - m_Properties:
+    - m_Name: background-image
+      m_Values:
+      - m_ValueType: 3
+        valueIndex: 1
+    line: 30
+  - m_Properties:
+    - m_Name: color
+      m_Values:
+      - m_ValueType: 2
+        valueIndex: 7
+    - m_Name: background-image
+      m_Values:
+      - m_ValueType: 3
+        valueIndex: 2
+    line: 34
+  - m_Properties:
+    - m_Name: color
+      m_Values:
+      - m_ValueType: 2
+        valueIndex: 8
+    line: 39
+  - m_Properties:
+    - m_Name: background-image
+      m_Values:
+      - m_ValueType: 3
+        valueIndex: 3
+    line: 43
+  - m_Properties:
+    - m_Name: background-image
+      m_Values:
+      - m_ValueType: 3
+        valueIndex: 4
+    line: 47
+  - m_Properties:
+    - m_Name: border-color
+      m_Values:
+      - m_ValueType: 2
+        valueIndex: 9
+    line: 51
+  - m_Properties:
+    - m_Name: border-color
+      m_Values:
+      - m_ValueType: 2
+        valueIndex: 10
+    line: 55
+  - m_Properties:
+    - m_Name: background-color
+      m_Values:
+      - m_ValueType: 2
+        valueIndex: 11
+    line: 59
+  - m_Properties:
+    - m_Name: background-color
+      m_Values:
+      - m_ValueType: 2
+        valueIndex: 12
+    line: 63
+  - m_Properties:
+    - m_Name: color
+      m_Values:
+      - m_ValueType: 2
+        valueIndex: 13
+    line: 67
+  - m_Properties:
+    - m_Name: border-color
+      m_Values:
+      - m_ValueType: 2
+        valueIndex: 14
+    line: 71
+  - m_Properties:
+    - m_Name: background-color
+      m_Values:
+      - m_ValueType: 2
+        valueIndex: 15
+    line: 75
+  - m_Properties:
+    - m_Name: border-color
+      m_Values:
+      - m_ValueType: 2
+        valueIndex: 16
+    line: 79
+  - m_Properties:
+    - m_Name: background-color
+      m_Values:
+      - m_ValueType: 2
+        valueIndex: 17
+    - m_Name: border-color
+      m_Values:
+      - m_ValueType: 2
+        valueIndex: 18
+    line: 83
+  m_ComplexSelectors:
+  - m_Specificity: 101
+    m_Selectors:
+    - m_Parts:
+      - m_Value: HistoryContainer
+        m_Type: 6
+      m_PreviousRelationship: 0
+    ruleIndex: 0
+  - m_Specificity: 111
+    m_Selectors:
+    - m_Parts:
+      - m_Value: obtainedRevision
+        m_Type: 3
+      m_PreviousRelationship: 0
+    - m_Parts:
+      - m_Value: HistoryDetail
+        m_Type: 6
+      m_PreviousRelationship: 2
+    ruleIndex: 1
+  - m_Specificity: 111
+    m_Selectors:
+    - m_Parts:
+      - m_Value: absentRevision
+        m_Type: 3
+      m_PreviousRelationship: 0
+    - m_Parts:
+      - m_Value: HistoryDetail
+        m_Type: 6
+      m_PreviousRelationship: 2
+    ruleIndex: 2
+  - m_Specificity: 101
+    m_Selectors:
+    - m_Parts:
+      - m_Value: StatusView
+        m_Type: 6
+      m_PreviousRelationship: 0
+    ruleIndex: 3
+  - m_Specificity: 201
+    m_Selectors:
+    - m_Parts:
+      - m_Value: StatusView
+        m_Type: 6
+      m_PreviousRelationship: 0
+    - m_Parts:
+      - m_Value: StatusMessage
+        m_Type: 6
+      m_PreviousRelationship: 1
+    ruleIndex: 4
+  - m_Specificity: 12
+    m_Selectors:
+    - m_Parts:
+      - m_Value: BuildStatusButton
+        m_Type: 2
+      - m_Value: unity-button
+        m_Type: 3
+      m_PreviousRelationship: 0
+    ruleIndex: 5
+  - m_Specificity: 22
+    m_Selectors:
+    - m_Parts:
+      - m_Value: BuildStatusButton
+        m_Type: 2
+      - m_Value: unity-button
+        m_Type: 3
+      - m_Value: hover
+        m_Type: 4
+      m_PreviousRelationship: 0
+    ruleIndex: 6
+  - m_Specificity: 32
+    m_Selectors:
+    - m_Parts:
+      - m_Value: BuildStatusButton
+        m_Type: 2
+      - m_Value: unity-button
+        m_Type: 3
+      - m_Value: hover
+        m_Type: 4
+      - m_Value: active
+        m_Type: 4
+      m_PreviousRelationship: 0
+    ruleIndex: 7
+  - m_Specificity: 22
+    m_Selectors:
+    - m_Parts:
+      - m_Value: BuildStatusButton
+        m_Type: 2
+      - m_Value: unity-button
+        m_Type: 3
+      - m_Value: checked
+        m_Type: 4
+      m_PreviousRelationship: 0
+    ruleIndex: 8
+  - m_Specificity: 32
+    m_Selectors:
+    - m_Parts:
+      - m_Value: BuildStatusButton
+        m_Type: 2
+      - m_Value: unity-button
+        m_Type: 3
+      - m_Value: hover
+        m_Type: 4
+      - m_Value: checked
+        m_Type: 4
+      m_PreviousRelationship: 0
+    ruleIndex: 9
+  - m_Specificity: 42
+    m_Selectors:
+    - m_Parts:
+      - m_Value: BuildStatusButton
+        m_Type: 2
+      - m_Value: unity-button
+        m_Type: 3
+      - m_Value: hover
+        m_Type: 4
+      - m_Value: active
+        m_Type: 4
+      - m_Value: checked
+        m_Type: 4
+      m_PreviousRelationship: 0
+    ruleIndex: 10
+  - m_Specificity: 32
+    m_Selectors:
+    - m_Parts:
+      - m_Value: BuildStatusButton
+        m_Type: 2
+      - m_Value: unity-button
+        m_Type: 3
+      - m_Value: focus
+        m_Type: 4
+      - m_Value: checked
+        m_Type: 4
+      m_PreviousRelationship: 0
+    ruleIndex: 11
+  - m_Specificity: 2
+    m_Selectors:
+    - m_Parts:
+      - m_Value: CollabHistoryDropDown
+        m_Type: 2
+      m_PreviousRelationship: 0
+    ruleIndex: 12
+  - m_Specificity: 2
+    m_Selectors:
+    - m_Parts:
+      - m_Value: CollabHistoryDropDownItem
+        m_Type: 2
+      m_PreviousRelationship: 0
+    ruleIndex: 13
+  - m_Specificity: 111
+    m_Selectors:
+    - m_Parts:
+      - m_Value: RevisionLine
+        m_Type: 6
+      - m_Value: obtainedDateLine
+        m_Type: 3
+      m_PreviousRelationship: 0
+    ruleIndex: 14
+  - m_Specificity: 111
+    m_Selectors:
+    - m_Parts:
+      - m_Value: obtainedRevision
+        m_Type: 3
+      m_PreviousRelationship: 0
+    - m_Parts:
+      - m_Value: RevisionLine
+        m_Type: 6
+      m_PreviousRelationship: 2
+    ruleIndex: 15
+  - m_Specificity: 101
+    m_Selectors:
+    - m_Parts:
+      - m_Value: RevisionIndex
+        m_Type: 6
+      m_PreviousRelationship: 0
+    ruleIndex: 16
+  - m_Specificity: 101
+    m_Selectors:
+    - m_Parts:
+      - m_Value: RevisionIndicator
+        m_Type: 6
+      m_PreviousRelationship: 0
+    ruleIndex: 17
+  - m_Specificity: 111
+    m_Selectors:
+    - m_Parts:
+      - m_Value: currentRevision
+        m_Type: 3
+      m_PreviousRelationship: 0
+    - m_Parts:
+      - m_Value: RevisionIndicator
+        m_Type: 6
+      m_PreviousRelationship: 2
+    ruleIndex: 18
+  - m_Specificity: 111
+    m_Selectors:
+    - m_Parts:
+      - m_Value: currentRevision
+        m_Type: 3
+      m_PreviousRelationship: 0
+    - m_Parts:
+      - m_Value: HistoryDetail
+        m_Type: 6
+      m_PreviousRelationship: 2
+    ruleIndex: 19
+  - m_Specificity: 201
+    m_Selectors:
+    - m_Parts:
+      - m_Value: StatusView
+        m_Type: 6
+      m_PreviousRelationship: 0
+    - m_Parts:
+      - m_Value: StatusButton
+        m_Type: 6
+      m_PreviousRelationship: 1
+    ruleIndex: 20
+  floats: []
+  colors:
+  - {r: 0.63529414, g: 0.63529414, b: 0.63529414, a: 1}
+  - {r: 0.7607843, g: 0.7607843, b: 0.7607843, a: 1}
+  - {r: 0.87058824, g: 0.87058824, b: 0.87058824, a: 1}
+  - {r: 0.63529414, g: 0.63529414, b: 0.6392157, a: 1}
+  - {r: 0, g: 0, b: 0, a: 1}
+  - {r: 0.06666667, g: 0.06666667, b: 0.06666667, a: 1}
+  - {r: 0, g: 0, b: 0, a: 1}
+  - {r: 0.9411765, g: 0.9411765, b: 0.9411765, a: 1}
+  - {r: 0, g: 0, b: 0, a: 1}
+  - {r: 0.63529414, g: 0.63529414, b: 0.63529414, a: 1}
+  - {r: 0.63529414, g: 0.63529414, b: 0.63529414, a: 1}
+  - {r: 0.003921569, g: 0.5529412, b: 0.59607846, a: 1}
+  - {r: 0.003921569, g: 0.5529412, b: 0.59607846, a: 1}
+  - {r: 0.003921569, g: 0.5529412, b: 0.59607846, a: 1}
+  - {r: 0.003921569, g: 0.5529412, b: 0.59607846, a: 1}
+  - {r: 0.003921569, g: 0.5529412, b: 0.59607846, a: 1}
+  - {r: 0.003921569, g: 0.5529412, b: 0.59607846, a: 1}
+  - {r: 0.003921569, g: 0.5529412, b: 0.59607846, a: 1}
+  - {r: 0.003921569, g: 0.5529412, b: 0.59607846, a: 1}
+  strings:
+  - Builtin Skins/LightSkin/Images/btn.png
+  - Builtin Skins/LightSkin/Images/btn act.png
+  - Builtin Skins/LightSkin/Images/btn on.png
+  - Builtin Skins/LightSkin/Images/btn onact.png
+  - Builtin Skins/LightSkin/Images/btn on focus.png
+  assets: []

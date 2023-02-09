@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 140965d80392fa14cb9ffc5f0e68b69d
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - SoukouMincho
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 1b4aee1f63f654345b938540cba13731, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

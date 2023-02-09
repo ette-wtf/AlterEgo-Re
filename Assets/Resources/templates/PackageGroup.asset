@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 806784486, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: PackageGroup
+  m_EditorClassIdentifier:
+  m_Usings: []
+  inlineSheet: {fileID: 11400000, guid: d4270bd180caaf14386bbef996c3fc9b, type: 2}
+  m_VisualElementAssets:
+  - m_Name:
+    m_Id: 1632780032
+    m_ParentId: 0
+    m_RuleIndex: -1
+    m_Text:
+    m_PickingMode: 0
+    m_FullTypeName: UnityEngine.Experimental.UIElements.VisualElement
+    m_Classes: []
+    m_Stylesheets: []
+    m_Properties:
+    - name
+    - groupContainerOuter
+    - text
+    - 
+    - picking-mode
+    - Position
+  - m_Name:
+    m_Id: 2017546752
+    m_ParentId: 1632780032
+    m_RuleIndex: -1
+    m_Text:
+    m_PickingMode: 0
+    m_FullTypeName: UnityEngine.Experimental.UIElements.VisualElement
+    m_Classes: []
+    m_Stylesheets: []
+    m_Properties:
+    - name
+    - headerContainer
+    - text
+    - 
+    - picking-mode
+    - Position
+  - m_Name:
+    m_Id: -453329664
+    m_ParentId: 2017546752
+    m_RuleIndex: -1
+    m_Text:
+    m_PickingMode: 0
+    m_FullTypeName: UnityEngine.Experimental.UIElements.Label
+    m_Classes: []
+    m_Stylesheets: []
+    m_Properties:
+    - name
+    - headerTitle
+    - text
+    - Default
+    - picking-mode
+    - Position
+  - m_Name:
+    m_Id: -1397786624
+    m_ParentId: 1632780032
+    m_RuleIndex: -1
+    m_Text:
+    m_PickingMode: 0
+    m_FullTypeName: UnityEngine.Experimental.UIElements.VisualElement
+    m_Classes: []
+    m_Stylesheets: []
+    m_Properties:
+    - name
+    - groupContainer
+    - text
+    - 
+    - picking-mode
+    - Position
+  m_TemplateAssets: []
+  m_Slots: []
+  m_ContentContainerId: 0

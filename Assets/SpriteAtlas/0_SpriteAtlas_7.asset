@@ -1,0 +1,132 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &687078895
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: 0_SpriteAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 2
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 21300000, guid: 4abea5271df17eb47855fa943b21ec16, type: 3}
+    - {fileID: 21300002, guid: 4abea5271df17eb47855fa943b21ec16, type: 3}
+    - {fileID: 21300004, guid: 4abea5271df17eb47855fa943b21ec16, type: 3}
+    - {fileID: 21300006, guid: 4abea5271df17eb47855fa943b21ec16, type: 3}
+    - {fileID: 21300008, guid: 4abea5271df17eb47855fa943b21ec16, type: 3}
+    - {fileID: 21300010, guid: 4abea5271df17eb47855fa943b21ec16, type: 3}
+    - {fileID: 21300012, guid: 4abea5271df17eb47855fa943b21ec16, type: 3}
+    - {fileID: 21300014, guid: 4abea5271df17eb47855fa943b21ec16, type: 3}
+    - {fileID: 21300016, guid: 4abea5271df17eb47855fa943b21ec16, type: 3}
+    - {fileID: 21300018, guid: 4abea5271df17eb47855fa943b21ec16, type: 3}
+    - {fileID: 21300020, guid: 4abea5271df17eb47855fa943b21ec16, type: 3}
+    - {fileID: 21300022, guid: 4abea5271df17eb47855fa943b21ec16, type: 3}
+    - {fileID: 21300024, guid: 4abea5271df17eb47855fa943b21ec16, type: 3}
+    - {fileID: 21300026, guid: 4abea5271df17eb47855fa943b21ec16, type: 3}
+    - {fileID: 21300028, guid: 4abea5271df17eb47855fa943b21ec16, type: 3}
+    - {fileID: 21300030, guid: 4abea5271df17eb47855fa943b21ec16, type: 3}
+    - {fileID: 21300032, guid: 4abea5271df17eb47855fa943b21ec16, type: 3}
+    - {fileID: 21300034, guid: 4abea5271df17eb47855fa943b21ec16, type: 3}
+    - {fileID: 21300036, guid: 4abea5271df17eb47855fa943b21ec16, type: 3}
+    - {fileID: 21300038, guid: 4abea5271df17eb47855fa943b21ec16, type: 3}
+    - {fileID: 21300040, guid: 4abea5271df17eb47855fa943b21ec16, type: 3}
+    - {fileID: 21300042, guid: 4abea5271df17eb47855fa943b21ec16, type: 3}
+    - {fileID: 21300044, guid: 4abea5271df17eb47855fa943b21ec16, type: 3}
+    - {fileID: 21300046, guid: 4abea5271df17eb47855fa943b21ec16, type: 3}
+    - {fileID: 21300048, guid: 4abea5271df17eb47855fa943b21ec16, type: 3}
+    - {fileID: 21300050, guid: 4abea5271df17eb47855fa943b21ec16, type: 3}
+    - {fileID: 21300052, guid: 4abea5271df17eb47855fa943b21ec16, type: 3}
+    - {fileID: 21300054, guid: 4abea5271df17eb47855fa943b21ec16, type: 3}
+    - {fileID: 21300056, guid: 4abea5271df17eb47855fa943b21ec16, type: 3}
+    - {fileID: 21300058, guid: 4abea5271df17eb47855fa943b21ec16, type: 3}
+    - {fileID: 21300060, guid: 4abea5271df17eb47855fa943b21ec16, type: 3}
+    totalSpriteSurfaceArea: 0
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 4abea5271df17eb47855fa943b21ec16, type: 3}
+  - {fileID: 21300002, guid: 4abea5271df17eb47855fa943b21ec16, type: 3}
+  - {fileID: 21300004, guid: 4abea5271df17eb47855fa943b21ec16, type: 3}
+  - {fileID: 21300006, guid: 4abea5271df17eb47855fa943b21ec16, type: 3}
+  - {fileID: 21300008, guid: 4abea5271df17eb47855fa943b21ec16, type: 3}
+  - {fileID: 21300010, guid: 4abea5271df17eb47855fa943b21ec16, type: 3}
+  - {fileID: 21300012, guid: 4abea5271df17eb47855fa943b21ec16, type: 3}
+  - {fileID: 21300014, guid: 4abea5271df17eb47855fa943b21ec16, type: 3}
+  - {fileID: 21300016, guid: 4abea5271df17eb47855fa943b21ec16, type: 3}
+  - {fileID: 21300018, guid: 4abea5271df17eb47855fa943b21ec16, type: 3}
+  - {fileID: 21300020, guid: 4abea5271df17eb47855fa943b21ec16, type: 3}
+  - {fileID: 21300022, guid: 4abea5271df17eb47855fa943b21ec16, type: 3}
+  - {fileID: 21300024, guid: 4abea5271df17eb47855fa943b21ec16, type: 3}
+  - {fileID: 21300026, guid: 4abea5271df17eb47855fa943b21ec16, type: 3}
+  - {fileID: 21300028, guid: 4abea5271df17eb47855fa943b21ec16, type: 3}
+  - {fileID: 21300030, guid: 4abea5271df17eb47855fa943b21ec16, type: 3}
+  - {fileID: 21300032, guid: 4abea5271df17eb47855fa943b21ec16, type: 3}
+  - {fileID: 21300034, guid: 4abea5271df17eb47855fa943b21ec16, type: 3}
+  - {fileID: 21300036, guid: 4abea5271df17eb47855fa943b21ec16, type: 3}
+  - {fileID: 21300038, guid: 4abea5271df17eb47855fa943b21ec16, type: 3}
+  - {fileID: 21300040, guid: 4abea5271df17eb47855fa943b21ec16, type: 3}
+  - {fileID: 21300042, guid: 4abea5271df17eb47855fa943b21ec16, type: 3}
+  - {fileID: 21300044, guid: 4abea5271df17eb47855fa943b21ec16, type: 3}
+  - {fileID: 21300046, guid: 4abea5271df17eb47855fa943b21ec16, type: 3}
+  - {fileID: 21300048, guid: 4abea5271df17eb47855fa943b21ec16, type: 3}
+  - {fileID: 21300050, guid: 4abea5271df17eb47855fa943b21ec16, type: 3}
+  - {fileID: 21300052, guid: 4abea5271df17eb47855fa943b21ec16, type: 3}
+  - {fileID: 21300054, guid: 4abea5271df17eb47855fa943b21ec16, type: 3}
+  - {fileID: 21300056, guid: 4abea5271df17eb47855fa943b21ec16, type: 3}
+  - {fileID: 21300058, guid: 4abea5271df17eb47855fa943b21ec16, type: 3}
+  - {fileID: 21300060, guid: 4abea5271df17eb47855fa943b21ec16, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - エス4
+  - 読書中_青
+  - 初読_読める
+  - しおり２
+  - しおり１
+  - エゴ王5
+  - 4
+  - 読書中めくり１
+  - ランクアップバナー
+  - ふきだし反射用
+  - エス1
+  - 初読_読める_オーラ
+  - エゴ王ふきだし_男
+  - 初読_読めない
+  - エゴ王1
+  - 3
+  - エゴ王3
+  - 5
+  - 1
+  - エゴ王4
+  - 読破_黒
+  - エゴ王2
+  - 読書中_黒
+  - エゴ王ふきだし_女
+  - 読書中めくり２
+  - しおり３
+  - ラベル
+  - しおり４
+  - エス3
+  - 2
+  - エス2
+  m_Tag: 0_SpriteAtlas
+  m_IsVariant: 0
