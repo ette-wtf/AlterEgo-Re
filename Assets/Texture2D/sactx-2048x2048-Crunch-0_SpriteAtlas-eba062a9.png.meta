@@ -156,7 +156,7 @@ TextureImporter:
   compressionQuality: 50
   spriteMode: 2
   spriteExtrude: 1
-  spriteMeshType: 1
+  spriteMeshType: 0
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 100
@@ -189,7 +189,7 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: Standalone
     maxTextureSize: 2048
@@ -201,7 +201,7 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: Server
     maxTextureSize: 2048
@@ -213,7 +213,7 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -6475,7 +6475,7 @@ TextureImporter:
     secondaryTextures: []
     nameFileIdTable:
       "\u984D": 21300040
-      "\u8776_\u9032\u6357\u7387": 21300072
+      "\u30A2\u30A4\u30B3\u30F3_\u30A8\u30F3\u30C6\u3099\u30A3\u30F3\u30AF\u3099_\u5927": 21300032
       "\u30D8\u30C3\u30BF\u3099\u30FC_\u30E1\u30CB\u30E5\u30FC": 21300036
       "\u984D\u306E\u3072\u304B\u308A": 21300044
       "\u30A2\u30A4\u30B3\u30F3_\u52D5\u753B\u5E83\u544A_\u5927": 21300046
@@ -6509,7 +6509,7 @@ TextureImporter:
       "\u30DB\u3099\u30BF\u30F3B": 21300002
       "\u30A2\u30A4\u30B3\u30F3_\u3075\u304D\u305F\u3099\u3057\u30BF\u30C3\u30D5\u309A": 21300038
       "\u30ED\u30B3\u3099_EGO": 21300008
-      "\u30A2\u30A4\u30B3\u30F3_\u30A8\u30F3\u30C6\u3099\u30A3\u30F3\u30AF\u3099_\u5927": 21300032
+      "\u8776_\u9032\u6357\u7387": 21300072
       "\u30E1\u30CB\u30E5\u30FC_\u76EE\u6A19\u9054\u6210": 21300014
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
